@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jamming-app/static/css/main.073c9b0a.css",
+    "main.js": "/jamming-app/static/js/main.594df36e.js",
+    "static/js/787.57bea386.chunk.js": "/jamming-app/static/js/787.57bea386.chunk.js",
+    "static/media/logo.svg": "/jamming-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jamming-app/index.html",
+    "main.073c9b0a.css.map": "/jamming-app/static/css/main.073c9b0a.css.map",
+    "main.594df36e.js.map": "/jamming-app/static/js/main.594df36e.js.map",
+    "787.57bea386.chunk.js.map": "/jamming-app/static/js/787.57bea386.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.594df36e.js"
+  ]
+}
